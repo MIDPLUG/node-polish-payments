@@ -1,6 +1,6 @@
 {
   "name": "node-polish-payments",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A library for handling Polish online payments.",
   "main": "./lib/index.js",
   "files": [
