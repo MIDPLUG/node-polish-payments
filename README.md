@@ -15,11 +15,8 @@ Don't hesitate to ask anything!
 
 Install the library using npm:
 
-``bash
+```bash
 npm install node-polish-payments
-
-```
-
 ```
 
 ## Examples of use (Paybylink)
