@@ -1,6 +1,6 @@
 {
   "name": "node-polish-payments",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "description": "A library for handling Polish online payments.",
   "main": "./lib/index.js",
   "files": [
@@ -16,10 +16,6 @@
     "test:watch": "jest --watch",
     "test": "jest --coverage",
     "typecheck": "tsc --noEmit"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MIDPLUG/node-polish-payments.git"
   },
   "license": "MIT",
   "author": "Mid Dev",
