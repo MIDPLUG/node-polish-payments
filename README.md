@@ -11,6 +11,7 @@ If you have questions or want to get in touch, you can use the details below:
 Install the library using npm:
 ```bash
 npm install node-polish-payments
+npm install axios
 ```
 
 # Examples of use (Paybylink)
